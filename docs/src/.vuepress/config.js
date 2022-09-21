@@ -47,13 +47,12 @@ module.exports = {
       },      
     ],
     sidebar: {
-      '/guide/': [
+      '/第 1 章 算法与计算复杂性/': [
         {
-          title: 'Guide',
+          title: '第 1 章 算法与计算复杂性',
           collapsable: false,
           children: [
             '',
-            'using-vue',
           ]
         }
       ],
